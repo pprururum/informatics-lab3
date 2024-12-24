@@ -27,3 +27,32 @@ virtual machine C
 
 ![image](https://github.com/user-attachments/assets/c97a7773-294e-43ee-92d6-be4e47da2d4c)
 
+Проверяем, что машина А подключена к интернету.
+
+![image](https://github.com/user-attachments/assets/0a2c2a55-884f-4fab-8914-723521272a39)
+
+Проверяем, что машина А подключена к машине В
+IP-адрес 10.0.2.4 был присвоен автоматически
+
+![image](https://github.com/user-attachments/assets/d7eadb84-74fa-4c12-97c9-ce8ea6a6f87d)
+
+Проверяем, что машина А подключена к машине С
+IP-адрес 10.0.2.5 был присвоен автоматически
+
+![image](https://github.com/user-attachments/assets/b8ce71c9-bfe7-4aec-9c34-7b79f293975c)
+
+Запретим доступ машины В к машине С
+
+![image](https://github.com/user-attachments/assets/ade0343c-26dc-4739-ba25-31c6c4c88969)
+
+Терминалы всех мащин на одном скриншоте:
+
+![image](https://github.com/user-attachments/assets/ce6e7c34-079d-41ec-83b1-a4f9ce4eacd5)
+
+Скриншот со всеми установленными связями:
+IP-адрес машины А - 10.0.2.15
+IP-адрес машины В - 10.0.2.4
+IP-адрес машины С - 10.0.2.5
+
+![image](https://github.com/user-attachments/assets/8209544b-e9d1-438a-af95-c15cb779e863)
+
